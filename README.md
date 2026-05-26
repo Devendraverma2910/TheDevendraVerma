@@ -1,22 +1,24 @@
-# Hi 👋, I'm Devendra Verma
+# Hi there, I'm Devendra Verma 👋
 
-### Computer Science Engineering Student @ SAIT | Passionate Developer
-
-- 🔭 I'm currently working on **Enhancing my skills in Data Structures & Algorithms (DSA) and Cloud Concepts**
-
-- 🌱 I'm currently learning **Advanced Java, C++, and exploring Microsoft Azure Services**
-
-- 💬 Ask me about **Java, C/C++, Git/GitHub, and core programming logic**
-
-- 📫 How to reach me **devv70171@gmail.com**
-
-- ⚡ Fun fact **"Writing clean code by day, and structuring thoughts like poetry by night." 💻✨**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Devendra Verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Devendra Verma" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://i.ibb.co/6P6Y2wQ/Devendra-Banner.jpg" alt="Devendra Banner" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/azure" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+### 🎯 About Me
+- 🏫 Computer Science Engineering Student @ *Sri Aurobindo Institute of Technology* (2nd Year)
+- 💻 Passionate about software development, logic building, and technical problem solving.
+- 🚀 Writing clean code by day, and structuring thoughts like poetry by night. ✨
 
+---
+
+### 🛠️ Skills & Technologies
+- *Programming Languages:* Java, C++, C
+- *Tools & Platforms:* VS Code, Git, GitHub
+- *Core Areas:* Data Structures & Algorithms (DSA), Cloud Concepts (Microsoft Azure)
+
+---
+
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheDevendraVerma&show_icons=true&theme=gotham" alt="Devendra's GitHub Stats" />
+</p>
